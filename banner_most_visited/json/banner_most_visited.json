@@ -1,0 +1,70 @@
+{
+  "city": "Uberaba",
+  "banners_most_visited_result": [
+    {
+      "id": 0,
+      "name": "App Amarelas",
+      "show":"true",
+      "logo_path": "/logo_0_app_amarelas.png",
+      "banner_path": "/banner_0_app_amarelas.png"
+    },
+    {
+      "id": 1,
+      "name": "ProMotos Peças, Acessórios e Suspensão",
+      "show":"true",
+      "logo_path": "/logo_1_pro_motos.png",
+      "banner_path": "/banner_1_pro_motos.png"
+    },
+    {
+      "id": 2,
+      "name": "Lider Executive Despachante & Contabilidade",
+      "show":"true",
+      "logo_path": "/logo_2_lider_executive.png",
+      "banner_path": "/banner_2_lider_executive.png"
+    },
+    {
+      "id": 3,
+      "name": "Prevencar Serviços Automotivos",
+      "show":"true",
+      "logo_path": "/logo_3_prevencar_oficina.png",
+      "banner_path": "/banner_3_prevencar_oficina.png"
+    },
+    {
+      "id": 4,
+      "name": "Lidiana Veículos",
+      "show":"true",
+      "logo_path": "/logo_4_lidiana_veiculos.png",
+      "banner_path": "/banner_4_lidiana_veiculos.png"
+    },
+    {
+      "id": 5,
+      "name": "Ideal Bebidas",
+      "show":"true",
+      "logo_path": "/logo_5_ideal_bebidas.png",
+      "banner_path": "/banner_5_ideal_bebidas.png"
+    },
+    {
+      "id": 6,
+      "name": "Dona Porca e Seus Parafusos",
+      "show":"true",
+      "logo_path": "/logo_6_dona_porca.png",
+      "banner_path": "/banner_6_dona_porca.png"
+    },
+    {
+      "id": 7,
+      "name": "Funerária Pagliaro",
+      "show":"true",
+      "logo_path": "/logo_7_funeraria_pagliaro.png",
+      "banner_path": "/banner_7_funeraria_pagliaro.png"
+    },
+    {
+      "id": 8,
+      "name": "Parque Arqueológico de Peirópolis/MG",
+      "show":"true",
+      "logo_path": "/logo_8_peiropolis_dinossauros.png",
+      "banner_path": "/banner_8_peiropolis_dinossauros.png"
+    }    
+  ]
+}
+
+
