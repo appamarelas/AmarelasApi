@@ -12,7 +12,7 @@
       "id": 1,
       "name": "Brasil contra Covid19",
       "show": "true",
-      "banner_path": "/brasil/banners/banner_1_brasil_covid.png"
+      "banner_path": "/brasil/banners/banner_1_brasil_covid.jpeg"
     },
     {
       "id": 2,
@@ -30,19 +30,19 @@
       "id": 4,
       "name": "Unicef Brasil",
       "show": "true",
-      "banner_path": "/brasil/banners/banner_4_unicef_brasil.png"
+      "banner_path": "/brasil/banners/banner_4_unicef_brasil.jpg"
     },
     {
       "id": 5,
       "name": "Médicos Sem Fronteiras",
       "show": "true",
-      "banner_path": "/brasil/banners/banner_5_medicos_sem_fronteiras.png"
+      "banner_path": "/brasil/banners/banner_5_medicos_sem_fronteiras.jpg"
     },
     {
       "id": 6,
       "name": "Ouvidoria Geral do SUS",
       "show": "true",
-      "banner_path": "/brasil/banners/banner_6_ouvidoria_sus.png"
+      "banner_path": "/brasil/banners/banner_6_ouvidoria_sus.jpg"
     },
     {
       "id": 7,
