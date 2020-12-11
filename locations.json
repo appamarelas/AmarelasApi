@@ -1,0 +1,41 @@
+{
+  "locations_results": [
+    {
+      "local_id": 0,
+      "local_name": "Greenwich",
+      "local_lat": "51.47677782463784",
+      "local_long": "-0.0005042233073299059",
+      "local_logo_path": "/world/logos/",
+      "local_banner_path": "/world/banners/"
+    },
+    {
+      "local_id": 1,
+      "local_name": "Brasil",
+      "local_lat": "-15.800636756552173",
+      "local_long": "-47.86130118106823",
+      "local_logo_path": "/brasil/logos/",
+      "local_banner_path": "/brasil/banners/"
+    },
+    {
+      "local_id": 2,
+      "local_name": "Uberaba",
+      "local_lat": "-19.750308420988247",
+      "local_long": "-47.936649568367486",
+      "local_logo_path": "/uberaba/logos/",
+      "local_banner_path": "/uberaba/banners/"
+    },
+    {
+      "local_id": 3,
+      "local_name": "São José dos Campos",
+      "local_lat": "-23.18021615014949",
+      "local_long": "-45.887841216212045",
+      "local_logo_path": "/sjc/logos/",
+      "local_banner_path": "/sjc/banners/"
+    }
+  ]
+}
+ 
+
+ 
+
+ 
