@@ -1,0 +1,116 @@
+{
+  "banners_highlight_result": [
+    {
+      "id": 0,
+      "name": "App Amarelas",
+      "show": "true",
+      "show_entry": "01.11.2020",
+      "show_expire": "01.01.2021",
+      "banner_path": "/são josé dos campos/banners/banner_0_app_amarelas.png"
+    },
+    {
+      "id": 1,
+      "name": "ProMotos Peças, Acessórios e Suspensão",
+      "show": "true",
+      "banner_path": "/são josé dos campos/banners/banner_1_pro_motos.png"
+    },
+    {
+      "id": 2,
+      "name": "Lider Executive Despachante & Contabilidade",
+      "show": "true",
+      "banner_path": "/são josé dos campos/banners/banner_2_lider_executive.png"
+    },
+    {
+      "id": 3,
+      "name": "Prevencar Serviços Automotivos",
+      "show": "true",
+      "banner_path": "/são josé dos campos/banners/banner_3_prevencar_oficina.png"
+    },
+    {
+      "id": 4,
+      "name": "Lidiana Veículos",
+      "show": "true",
+      "banner_path": "/são josé dos campos/banners/banner_4_lidiana_veiculos.png"
+    },
+    {
+      "id": 5,
+      "name": "Ideal Bebidas",
+      "show": "true",
+      "banner_path": "/são josé dos campos/banners/banner_5_ideal_bebidas.png"
+    },
+    {
+      "id": 6,
+      "name": "Dona Porca e Seus Parafusos",
+      "show": "true",
+      "banner_path": "/são josé dos campos/banners/banner_6_dona_porca.png"
+    },
+    {
+      "id": 7,
+      "name": "Funerária Pagliaro",
+      "show": "true",
+      "banner_path": "/são josé dos campos/banners/banner_7_funeraria_pagliaro.png"
+    },
+    {
+      "id": 8,
+      "name": "Parque Arqueológico de Peirópolis/MG",
+      "show": "true",
+      "banner_path": "/são josé dos campos/banners/banner_8_peiropolis_dinossauros.png"
+    },
+    {
+      "id": 0,
+      "name": "App Amarelas",
+      "show": "true",
+      "show_entry": "01.11.2020",
+      "show_expire": "01.01.2021",
+      "banner_path": "/são josé dos campos/banners/banner_0_app_amarelas.png"
+    },
+    {
+      "id": 1,
+      "name": "ProMotos Peças, Acessórios e Suspensão",
+      "show": "true",
+      "banner_path": "/são josé dos campos/banners/banner_1_pro_motos.png"
+    },
+    {
+      "id": 2,
+      "name": "Lider Executive Despachante & Contabilidade",
+      "show": "true",
+      "banner_path": "/são josé dos campos/banners/banner_2_lider_executive.png"
+    },
+    {
+      "id": 3,
+      "name": "Prevencar Serviços Automotivos",
+      "show": "true",
+      "banner_path": "/são josé dos campos/banners/banner_3_prevencar_oficina.png"
+    },
+    {
+      "id": 4,
+      "name": "Lidiana Veículos",
+      "show": "true",
+      "banner_path": "/são josé dos campos/banners/banner_4_lidiana_veiculos.png"
+    },
+    {
+      "id": 5,
+      "name": "Ideal Bebidas",
+      "show": "true",
+      "banner_path": "/são josé dos campos/banners/banner_5_ideal_bebidas.png"
+    },
+    {
+      "id": 6,
+      "name": "Dona Porca e Seus Parafusos",
+      "show": "true",
+      "banner_path": "/são josé dos campos/banners/banner_6_dona_porca.png"
+    },
+    {
+      "id": 7,
+      "name": "Funerária Pagliaro",
+      "show": "true",
+      "banner_path": "/são josé dos campos/banners/banner_7_funeraria_pagliaro.png"
+    },
+    {
+      "id": 8,
+      "name": "Parque Arqueológico de Peirópolis/MG",
+      "show": "true",
+      "banner_path": "/são josé dos campos/banners/banner_8_peiropolis_dinossauros.png"
+    }
+  ]
+}
