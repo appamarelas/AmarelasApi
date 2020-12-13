@@ -35,7 +35,7 @@
     {
       "id": 4,
       "name": "Irish Pub",
-      "show": "false",
+      "show": "true",
       "show_entry": "01.11.2020",
       "show_expire": "01.01.2021",
       "banner_path": "/são josé dos campos/banners/banner_4_irish_pub.png"
@@ -139,7 +139,7 @@
     {
       "id": 4,
       "name": "Irish Pub",
-      "show": "false",
+      "show": "true",
       "show_entry": "01.11.2020",
       "show_expire": "01.01.2021",
       "banner_path": "/são josé dos campos/banners/banner_4_irish_pub.png"
