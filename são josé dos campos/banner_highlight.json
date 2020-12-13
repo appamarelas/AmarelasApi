@@ -28,7 +28,7 @@
     },
     {
       "id": 4,
-      "name": "Rádio Super Panas",
+      "name": "Irish Pub",
       "show": "true",
       "banner_path": "/são josé dos campos/banners/banner_4_irish_pub.png"
     },
@@ -52,9 +52,9 @@
     },
     {
       "id": 8,
-      "name": "Parque Arqueológico de Peirópolis/MG",
+      "name": "Center Corte Cabeleireiros",
       "show": "true",
-      "banner_path": "/são josé dos campos/banners/banner_8_auto_center_nacional.png"
+      "banner_path": "/são josé dos campos/banners/banner_8_center_corte.png"
     },
     {
       "id": 9,
@@ -73,6 +73,12 @@
       "name": "Transparência Internacional",
       "show": "true",
       "banner_path": "/são josé dos campos/banners/banner_11_transparencia_internacional.png"
+    },
+    {
+      "id": 12,
+      "name": "Auto Center Nacional",
+      "show": "true",
+      "banner_path": "/são josé dos campos/banners/banner_12_auto_center_nacional.png"
     },
     {
       "id": 0,
