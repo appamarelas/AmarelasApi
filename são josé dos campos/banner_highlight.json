@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "App Amarelas",
-      "show": "true",
+      "show": "false",
       "show_entry": "01.11.2020",
       "show_expire": "01.01.2021",
       "banner_path": "/são josé dos campos/banners/banner_0_app_amarelas.png"
@@ -107,7 +107,7 @@
     {
       "id": 0,
       "name": "App Amarelas",
-      "show": "true",
+      "show": "false",
       "show_entry": "01.11.2020",
       "show_expire": "01.01.2021",
       "banner_path": "/são josé dos campos/banners/banner_0_app_amarelas.png"

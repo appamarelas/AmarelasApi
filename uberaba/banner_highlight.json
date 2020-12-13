@@ -51,7 +51,7 @@
     {
       "id": 6,
       "name": "Dona Porca e Seus Parafusos",
-      "show": "true",
+      "show": "false",
       "show_entry": "01.11.2020",
       "show_expire": "01.01.2021",
       "banner_path": "/uberaba/banners/banner_6_dona_porca.png"
@@ -123,7 +123,7 @@
     {
       "id": 6,
       "name": "Dona Porca e Seus Parafusos",
-      "show": "true",
+      "show": "false",
       "show_entry": "01.11.2020",
       "show_expire": "01.01.2021",
       "banner_path": "/uberaba/banners/banner_6_dona_porca.png"
