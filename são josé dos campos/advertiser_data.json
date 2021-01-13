@@ -1,0 +1,203 @@
+{
+  "city": "São Jośe dos Campos",
+  "advertiser_data_result": [
+    {
+      "id": 0,
+      "name": "App Amarelas",
+      "url" : "https://www.appamarelas.com.br",
+      "formatted_phone_number" : "(11) 99999-9999",
+      "whatsapp_phone_number" : " ",
+      "vicinity":"Brasil - BR",    
+      "geometry": {
+        "location": {
+          "lat": -8.7831950, 
+          "lng": -55.4914770
+        }
+      },
+      "banner_highlight": {
+        "show": true,
+        "show_entry": "01.01.2021",
+        "show_expire": "01.03.2021"
+      },
+      "most_visited": {
+        "show": true,
+        "show_entry": "01.01.2021",
+        "show_expire": "31.12.2021"
+      },
+      "banner_path": "/são josé dos campos/banners/0.png",
+      "logo_path": "/são josé dos campos/logos/0.png",
+      "background_path": "/são josé dos campos/backgrounds/0.png",
+      "photo_path": "/são josé dos campos/photos/0.png"
+    },
+    {
+      "id": 1, 
+      "name": "Brasil contra Covid19",
+      "url" : " ",
+      "formatted_phone_number" : " ",
+      "whatsapp_phone_number" : " ",
+      "vicinity":"Brasil - BR",    
+      "geometry": {
+        "location": {
+          "lat": -15.800336, 
+          "lng": -47.868207 
+        }
+      },
+      "banner_highlight": {
+        "show": true,
+        "show_entry": "01.01.2021",
+        "show_expire": "01.03.2021"
+      },
+      "most_visited": {
+        "show": true,
+        "show_entry": "01.01.2021",
+        "show_expire": "31.12.2021"
+      },
+      "banner_path": "/são josé dos campos/banners/1.png",
+      "logo_path": "/são josé dos campos/logos/1.png",
+      "background_path": "/são josé dos campos/backgrounds/1.png",
+      "photo_path": " "
+    }, 
+    {
+      "id": 2, 
+      "name": "Disque Denúncia",
+      "url" : " ",
+      "formatted_phone_number" : " ",
+      "whatsapp_phone_number" : " ",
+      "vicinity":"Brasil - BR",    
+      "geometry": {
+        "location": {
+          "lat": -8.7831950, 
+          "lng": -55.4914770
+        }
+      },
+      "banner_highlight": {
+        "show": true,
+        "show_entry": "01.01.2021",
+        "show_expire": "01.03.2021"
+      },
+      "most_visited": {
+        "show": true,
+        "show_entry": "01.01.2021",
+        "show_expire": "31.12.2021"
+      },
+      "banner_path": "/são josé dos campos/banners/2.png",
+      "logo_path": "/são josé dos campos/logos/2.png",
+      "background_path": "/são josé dos campos/backgrounds/2.png",
+      "photo_path": " "
+    },  
+    {
+      "id": 3,
+      "name": "SoS Mata Atlântica", 
+      "url" : " ",
+      "formatted_phone_number" : " ",
+      "whatsapp_phone_number" : " ",
+      "vicinity":"Brasil - BR",    
+      "geometry": {
+        "location": {
+          "lat": -8.7831950, 
+          "lng": -55.4914770
+        }
+      },
+      "banner_highlight": {
+        "show": true,
+        "show_entry": "01.01.2021",
+        "show_expire": "01.03.2021"
+      },
+      "most_visited": {
+        "show": true,
+        "show_entry": "01.01.2021",
+        "show_expire": "31.12.2021"
+      },
+      "banner_path": "/são josé dos campos/banners/3.png",
+      "logo_path": "/são josé dos campos/logos/3.png",
+      "background_path": "/são josé dos campos/backgrounds/3.png",
+      "photo_path": " "
+    }, 
+    {
+      "id": 4, 
+      "name": "Unicef Brasil", 
+      "url" : " ",
+      "formatted_phone_number" : " ",
+      "whatsapp_phone_number" : " ",
+      "vicinity":"Brasil - BR",    
+      "geometry": {
+        "location": {
+          "lat": -15.759789, 
+          "lng": -47.892143
+        }
+      },
+      "banner_highlight": {
+        "show": true,
+        "show_entry": "01.01.2021",
+        "show_expire": "01.03.2021"
+      },
+      "most_visited": {
+        "show": true,
+        "show_entry": "01.01.2021",
+        "show_expire": "31.12.2021"
+      },
+      "banner_path": "/são josé dos campos/banners/4.png",
+      "logo_path": "/são josé dos campos/logos/4.png",
+      "background_path": "/são josé dos campos/backgrounds/4.png",
+      "photo_path": " "
+    },
+    {
+      "id": 5, 
+      "name": "Parque Arqueológico de Peirópolis/MG", 
+      "url" : "https://pt-br.facebook.com/pages/Parque-Dos-Dinossauros-Em-Peir%C3%B3polis/1432572273658069",
+      "formatted_phone_number" : "(34) 3338-1526",
+      "whatsapp_phone_number" : "",
+      "vicinity":"Br 262 Km 764 - Peirópolis, MG, 38039-764 - Brasil",    
+      "geometry": {
+        "location": {
+          "lat": -19.743908, 
+          "lng": -47.743024
+        }
+      },
+      "banner_highlight": {
+        "show": true,
+        "show_entry": "01.01.2021",
+        "show_expire": "01.03.2021"
+      },
+      "most_visited": {
+        "show": true,
+        "show_entry": "01.01.2021",
+        "show_expire": "31.12.2021"
+      },
+      "banner_path": "/são josé dos campos/banners/5.png",
+      "logo_path": "/são josé dos campos/logos/5.png",
+      "background_path": "/são josé dos campos/backgrounds/5.png",
+      "photo_path": " "
+    },
+    {
+      "id": 5, 
+      "name": "Parque Arqueológico de Peirópolis/MG", 
+      "url" : "https://pt-br.facebook.com/pages/Parque-Dos-Dinossauros-Em-Peir%C3%B3polis/1432572273658069",
+      "formatted_phone_number" : "(34) 3338-1526",
+      "whatsapp_phone_number" : "",
+      "vicinity":"Br 262 Km 764 - Peirópolis, MG, 38039-764 - Brasil",    
+      "geometry": {
+        "location": {
+          "lat": -19.743908, 
+          "lng": -47.743024
+        }
+      },
+      "banner_highlight": {
+        "show": true,
+        "show_entry": "01.01.2021",
+        "show_expire": "01.03.2021"
+      },
+      "most_visited": {
+        "show":true,
+        "show_entry": "01.01.2021",
+        "show_expire": "31.12.2021"
+      },
+      "banner_path": "/são josé dos campos/banners/5.png",
+      "logo_path": "/são josé dos campos/logos/5.png",
+      "background_path": "/são josé dos campos/backgrounds/5.png",
+      "photo_path": " "
+    } 
+  ]
+}
+
+

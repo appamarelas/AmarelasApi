@@ -1,15 +1,15 @@
 {
-  "city": "Brasil",
-  "banners_most_visited_result": [
+  "city": "São Jośe dos Campos",
+  "most_visited_result": [
     {
       "id": 0,
       "show":"true",
       "name": "App Amarelas",
-      "logo_path": "/brasil/logos/logo_0_app_amarelas.png",
-      "banner_path": "/brasil/banners/banner_0_app_amarelas.png",
+      "logo_path": "/são josé dos campos/logos/0.png",
+      "logo_bg_path": "/são josé dos campos/backgrounds/0.png",
       "url" : "https://www.appamarelas.com.br/",
       "formatted_phone_number" : "(11) 99999-9999",
-      "whatsapp_phone_number" : "(11) 99999-9999",
+      "whatsapp_phone_number" : " ",
       "vicinity":"Brasil - BR",    
       "geometry": {
         "location": {
@@ -22,8 +22,8 @@
       "id": 1,
       "show":"true",
       "name": "Brasil contra Covid19",
-      "logo_path": "/brasil/logos/logo_1_brasil_covid.png",
-      "banner_path": "/brasil/banners/banner_1_brasil_covid.png",
+      "logo_path": "/são josé dos campos/logos/1.png",
+      "logo_bg_path": "/são josé dos campos/backgrounds/1.png",
       "url" : " ",
       "formatted_phone_number" : " ",
       "whatsapp_phone_number" : " ",
@@ -39,8 +39,8 @@
       "id": 2,
       "show":"true",
       "name": "Disque Denúncia",
-      "logo_path": "/brasil/logos/logo_2_disque_denuncia.png",
-      "banner_path": "/brasil/banners/banner_2_disque_denuncia.png",
+      "logo_path": "/são josé dos campos/logos/2.png",
+      "logo_bg_path": "/são josé dos campos/backgrounds/2.png",
       "url" : " ",
       "formatted_phone_number" : " ",
       "whatsapp_phone_number" : " ",
@@ -56,8 +56,8 @@
       "id": 3,
       "show":"true",
       "name": "SoS Mata Atlântica",
-      "logo_path": "/brasil/logos/logo_3_sos_mata_atlantica.png",
-      "banner_path": "/brasil/banners/banner_3_sos_mata_atlantica.png",
+      "logo_path": "/são josé dos campos/logos/3.png",
+      "logo_bg_path": "/são josé dos campos/backgrounds/3.png",
       "url" : " ",
       "formatted_phone_number" : " ",
       "whatsapp_phone_number" : " ",
@@ -70,11 +70,11 @@
       }
     }, 
     {
-      "id": 3,
+      "id": 4,
       "show":"true",
       "name": "Unicef Brasil",
-      "logo_path": "/brasil/logos/logo_4_unicef_brasil.png",
-      "banner_path": "/brasil/banners/banner_4_unicef_brasil.png",
+      "logo_path": "/são josé dos campos/logos/4.png",
+      "logo_bg_path": "/são josé dos campos/backgrounds/4.png",
       "url" : " ",
       "formatted_phone_number" : " ",
       "whatsapp_phone_number" : " ",
@@ -87,11 +87,11 @@
       }
     },
     {
-      "id": 8,
+      "id": 5,
       "show":"true",
       "name": "Parque Arqueológico de Peirópolis/MG",
-      "logo_path": "/brasil/logos/logo_8_peiropolis_dinossauros.png",
-      "banner_path": "/brasil/banners/banner_8_peiropolis_dinossauros.png",
+      "logo_path": "/são josé dos campos/logos/5.png",
+      "logo_bg_path": "/são josé dos campos/backgrounds/5.png",
       "url" : "https://pt-br.facebook.com/pages/Parque-Dos-Dinossauros-Em-Peir%C3%B3polis/1432572273658069",
       "formatted_phone_number" : "(34) 3338-1526",
       "whatsapp_phone_number" : "",
@@ -102,13 +102,13 @@
           "lng": -47.743024
         }
       }
-    } ,
+    },
     {
-      "id": 8,
+      "id": 5,
       "show":"true",
       "name": "Parque Arqueológico de Peirópolis/MG",
-      "logo_path": "/brasil/logos/logo_8_peiropolis_dinossauros.png",
-      "banner_path": "/brasil/banners/banner_8_peiropolis_dinossauros.png",
+      "logo_path": "/são josé dos campos/logos/5.png",
+      "logo_bg_path": "/são josé dos campos/backgrounds/5.png",
       "url" : "https://pt-br.facebook.com/pages/Parque-Dos-Dinossauros-Em-Peir%C3%B3polis/1432572273658069",
       "formatted_phone_number" : "(34) 3338-1526",
       "whatsapp_phone_number" : "",
@@ -119,7 +119,7 @@
           "lng": -47.743024
         }
       }
-    }  
+    } 
   ]
 }
 
