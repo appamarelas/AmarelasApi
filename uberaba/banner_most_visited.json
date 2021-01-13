@@ -7,9 +7,9 @@
       "name": "App Amarelas",
       "logo_path": "/uberaba/logos/logo_0_app_amarelas.png",
       "banner_path": "/uberaba/banners/banner_0_app_amarelas.png",
-      "url" : "https://www.appamarelas.com.br/",
-      "formatted_phone_number" : "(11) 99197-6035",
-      "whatsapp_phone_number" : "(11) 99197-6035",
+      "url" : "https://www.appamarelas.com.br",
+      "formatted_phone_number" : "(34) 99197-6035",
+      "whatsapp_phone_number" : "03499197-6035",
       "vicinity":"Uberaba - MG - Brasil",    
       "geometry": {
         "location": {
