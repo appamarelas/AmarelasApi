@@ -155,19 +155,19 @@
       }
     },
     {
-      "id": 8,
+      "id": 9,
       "show":"true",
-      "name": "Parque Arqueológico de Peirópolis/MG",
-      "logo_path": "/uberaba/logos/logo_8_peiropolis_dinossauros.png",
-      "banner_path": "/uberaba/banners/banner_8_peiropolis_dinossauros.png",
-      "url" : "https://pt-br.facebook.com/pages/Parque-Dos-Dinossauros-Em-Peir%C3%B3polis/1432572273658069",
-      "formatted_phone_number" : "(34) 3338-1526",
+      "name": "Porque morar em Uberaba...",
+      "logo_path": "/uberaba/logos/logo_9_uberaba.png",
+      "banner_path": "/uberaba/banners/banner_9_uberaba.png",
+      "url" : "http://www.uberaba.mg.gov.br/portal/principal",
+      "formatted_phone_number" : "(34) 3318-2000",
       "whatsapp_phone_number" : "",
-      "vicinity":"Br 262 Km 764 - Peirópolis, MG, 38039-764 - Brasil",    
+      "vicinity":"Av. Dom Luíz Maria de Santana, 141 - Santa Marta, Uberaba - MG, 38061-080 - Brasil",    
       "geometry": {
         "location": {
-          "lat": -19.743908, 
-          "lng": -47.743024
+          "lat": -19.748234, 
+          "lng": -47.951043
         }
       }
     },
