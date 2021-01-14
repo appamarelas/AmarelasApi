@@ -71,6 +71,14 @@
       "show_entry": "01.11.2020",
       "show_expire": "01.01.2021",
       "banner_path": "/uberaba/banners/banner_8_peiropolis_dinossauros.png"
+    },
+    {
+      "id": 9,
+      "name": "Porque morar em Uberaba...",
+      "show": "true",
+      "show_entry": "01.11.2020",
+      "show_expire": "01.01.2021",
+      "banner_path": "/uberaba/banners/banner_9_uberaba.png"
     }
   ]
 }
