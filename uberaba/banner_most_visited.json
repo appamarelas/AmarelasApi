@@ -153,7 +153,7 @@
           "lng": -47.743024
         }
       }
-    }  ,
+    },
     {
       "id": 8,
       "show":"true",
@@ -168,6 +168,23 @@
         "location": {
           "lat": -19.743908, 
           "lng": -47.743024
+        }
+      }
+    },
+    {
+      "id": 9,
+      "show":"true",
+      "name": "Porque morar em Uberaba...",
+      "logo_path": "/uberaba/logos/logo_9_uberaba.png",
+      "banner_path": "/uberaba/banners/banner_9_uberaba.png",
+      "url" : "http://www.uberaba.mg.gov.br/portal/principal",
+      "formatted_phone_number" : "(34) 3318-2000",
+      "whatsapp_phone_number" : "",
+      "vicinity":"Av. Dom Luíz Maria de Santana, 141 - Santa Marta, Uberaba - MG, 38061-080 - Brasil",    
+      "geometry": {
+        "location": {
+          "lat": -19.748234, 
+          "lng": -47.951043
         }
       }
     }    
